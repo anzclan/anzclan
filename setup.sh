@@ -16,10 +16,10 @@ exit 0
 fi
 
 #else
-clear
-mkdir /var/lib/premium-script;
-exit 0
-fi
+#clear
+#mkdir /var/lib/premium-script;
+#exit 0
+#fi
 echo '============================================='
 echo '        Process Seterusnya Silakan Tunggu '
 echo '============================================='
